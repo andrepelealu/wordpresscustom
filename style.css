@@ -1,0 +1,53 @@
+/*
+Theme Name: AndrePelealu
+Theme URI: https://AndrePelealu.com
+Author: AndrePelealu
+*/
+
+body{
+  margin : 50px auto;
+  width: 80%;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+h1{
+  margin-bottom: 0px;
+}
+h2{
+  margin-top: 0px;
+}
+h1 a{
+  background-color: #aaa;
+  padding: 5px;
+
+}
+li{
+  list-style: none;
+}
+nav ul{
+  padding-left: 0;
+}
+nav li{
+  display: inline-block;
+  margin-right: 10px;
+}
+header nav, #search{
+  float: left;
+}
+.clear{
+  clear:both;
+}
+header nav li {
+  font-size: 22px;
+  border: 2px solid #333;
+  padding: 3px;
+  color: #333;
+}
+header{
+  border-bottom: 3px solid #333;
+}footer{
+  border-top: 3px solid #333;
+}
